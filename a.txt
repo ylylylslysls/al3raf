@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تطبيق العراف</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>تطبيق العراف</h1>
+    </header>
+    <main>
+        <section id="horoscope">
+            <h2>توقعات الأبراج</h2>
+            <p>توقعات يومية، أسبوعية، شهرية، وسنوية.</p>
+        </section>
+        <section id="traits">
+            <h2>صفات الأبراج</h2>
+            <p>صفات، ميزات، عيوب، والتوافق العاطفي.</p>
+        </section>
+        <section id="tarot">
+            <h2>قراءة التاروت</h2>
+            <p>قراءة عامة، توقعات عاطفية، مادية، مهنية، وإجابة على الأسئلة بنعم أو لا.</p>
+        </section>
+        <section id="contact">
+            <h2>التواصل</h2>
+            <p>تواصل معنا عبر:</p>
+            <ul>
+                <li><a href="https://www.facebook.com/share/18J6L5aQnn/?mibextid=wwXIfr">فيسبوك</a></li>
+                <li><a href="https://x.com/alarafalmlky?s=21">تويتر</a></li>
+                <li><a href="https://youtube.com/@alkahan2025?si=goyW5rIZI_HaD6cA">يوتيوب</a></li>
+                <li><a href="https://t.me/+L3yv1Q9IMjY3ZGY0">التليجرام</a></li>
+                <li><a href="https://wa.me/201032792087">الواتساب</a></li>
+            </ul>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
